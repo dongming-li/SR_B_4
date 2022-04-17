@@ -1,0 +1,66 @@
+
+CyCrawl/\.idea/
+
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+Andi/DungeonExplorer/local\.properties
+=======
+>>>>>>> andi
+Andi/\.idea/workspace\.xml
+
+Andi/DungeonExplorer/\.idea/workspace\.xml
+
+Andi/DungeonExplorer/\.gradle/3\.3/taskArtifacts/taskArtifacts\.lock
+
+Andi/DungeonExplorer/\.gradle/3\.3/taskArtifacts/taskArtifacts\.bin
+
+Andi/DungeonExplorer/\.gradle/3\.3/taskArtifacts/fileSnapshots\.bin
+
+Andi/DungeonExplorer/\.gradle/3\.3/taskArtifacts/fileHashes\.bin
+
+Andi/DungeonExplorer/core/build/libs/core-1\.0\.jar
+
+Andi/DungeonExplorer/android/build/intermediates/incremental/mergeDebugResources/compile-file-map\.properties
+
+Andi/DungeonExplorer/android/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map\.properties
+
+Andi/DungeonExplorer/android/android\.iml
+
+Andi/DungeonExplorer/desktop/build/libs/desktop-1\.0\.jar
+
+Andi/DungeonExplorer/android/build/outputs/logs/manifest-merger-debug-report\.txt
+
+Andi/DungeonExplorer/android/build/intermediates/incremental/mergeDebugResources/merger\.xml
+<<<<<<< HEAD
+=======
+
+*.bin
+
+Andi/DungeonExplorer/\.gradle/3\.3/taskArtifacts/
+
+*.lock
+
+Andi/DungeonExplorer/android/build/intermediates/incremental/mergeDebugResources/
+>>>>>>> Stashed changes
+>>>>>>> andi
+
+Andi/DungeonExplorer/android/build/generated/source/r/debug/com/andi/monster/R\.java
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/multi/values\.json
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/single/drawable-hdpi\.json
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/single/drawable-mdpi\.json
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/single/drawable-xhdpi\.json
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/single/drawable-xxhdpi\.json
+
+Andi/DungeonExplorer/android/build/intermediates/blame/res/debug/single/drawable-xxxhdpi\.json
+
+Andi/DungeonExplorer/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merger\.xml
+
+Andi/DungeonExplorer/android/build/intermediates/manifests/full/debug/AndroidManifest\.xml
+
+Andi/DungeonExplorer/desktop/desktop\.iml

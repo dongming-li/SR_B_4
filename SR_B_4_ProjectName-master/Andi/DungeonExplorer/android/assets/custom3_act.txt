@@ -1,0 +1,9 @@
+boulder:6,3
+boulder:6,4
+boulder:11,4
+boulder:12,3
+boulder:13,3
+boulder:17,4
+boulder:8,2
+boulder:7,2
+boulder:6,2
